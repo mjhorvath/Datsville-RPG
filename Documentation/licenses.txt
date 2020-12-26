@@ -1,0 +1,4 @@
+LICENSES
++ Datsville is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported license, and so is the majority of this game!
++ Third-party RPG Maker scripts such as LeTBS are licensed under whatever conditions their original authors chose, however.
++ Original RPG Maker assets are being used in some cases. These are property of Enterbrain.

@@ -1,0 +1,12 @@
+<step sound>
+id: 1
+name: "38873__swuing__footstep-concrete"
+volume: 200
+pitch: 100
+</step sound>
+<step sound>
+id: 2
+name: "38873__swuing__footstep-concrete"
+volume: 200
+pitch: 100
+</step sound>

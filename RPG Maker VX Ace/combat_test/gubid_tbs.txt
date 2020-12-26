@@ -1,0 +1,8 @@
+ranged weapons
+multiple battles per map?
+line of sight
+accuracy based on distance?
+APs?
+get rid of jumping?
+wide sprites?
+what scripts can I delete if I don't use isometric?

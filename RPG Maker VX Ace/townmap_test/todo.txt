@@ -1,0 +1,38 @@
+- Bike paths need to be moved a little to align with the tile grid.
+- Fire hydrants, trash cans and bus stops need to be aligned with the tile grid.
+- Move fire hydrants etc. to overlayer?
+- Move streetsigns to streets layer.
+- Copy temple trees to a new type of tree.
+- Runway needs blinky lights.
+- Airport runway is too narrow.
+- Railroad crossing hardware needs to be moved to the top layer.
+- building_007_firecompany has people in it.
+- building_086_redwarehouse has people in it.
+- building_080_garagexsmall has people in it.
+- building_020_baitshop.mpd has people in it.
+- building_075_buddhisttemple has people in it.
+- building_040_lookouttower has people in it.
++ [tricky] building_030_policehq.mpd has people in it.
++ [tricky] building_017_nationalbank has people in it.
++ [tricky] building_031_carriagehouse has people in it.
++ vehicle_054_monaro has a person standing outside the car instead of sitting in it.
++ Blue apartments need showers/tubs.
++ All minifig animations need to be redone because the back leg is not rotated correctly.
++ Arrow road construction sign needs to be moved to the streets overlayer.
++ Check the gridded ground layer for misaligned building models.
++ Shopping center parking lot needs to be moved to the lower street level.
++ Shopping center sidewalks also need to be on the lower street level.
++ Driveways need to be aligned with the tile grid.
++ Add fences around buildings?
++ Make sure trees are positioned properly on the studs under them.
++ Block 6 base needs to be edited so that building 21 can be lowered 8 LDU.
++ Parking lot areas should be done sideways and standardized like SNOT roads.
++ Maybe replace building_024_andershouse.ldr since it is off scale.
++ Lower buildings with ground tiles so the ground is flush with the grass.
++ Maybe switch to Ultima VII style oblique graphics perspective.
++ Radio tower is sitting on a green block instead of concrete.
++ Airplane hangar should be aligned with baseplate grid.
++ Supermarket needs to be realigned with the ground grid.
+- High school needs to be split into top and bottom layers.
++ Experiment with the fire station to see if separating the building into clip 
+  and not-clip layers works OK without artifacts.

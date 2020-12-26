@@ -1,0 +1,21 @@
+0 Minifig Skeleton (Shortcut)
+0 Name: monster_001_skeleton.ldr
+0 Author: Steve Bliss [sbliss]
+0 !LDRAW_ORG Shortcut UPDATE 2001-02
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+0 BFC CERTIFY CCW
+
+0 !HISTORY 2001-11-30 [PTadmin] Official Update 2001-02
+0 !HISTORY 2007-07-16 [PTadmin] Header formatted for Contributor Agreement
+0 !HISTORY 2008-07-01 [PTadmin] Official Update 2008-01
+
+1 15 0 -97 0 1 0 0 0 1 0 0 0 1 82359.dat
+1 15 0 -73 0 1 0 0 0 1 0 0 0 1 6260.dat
+1 15 -10 -28 0 1 0 0 0 1 0 0 0 1 6266.dat
+1 15 10 -28 0 1 0 0 0 1 0 0 0 1 6266.dat
+1 15 21.2 -66.2 0 0.9848 0 -0.1736 -0.1736 0 -0.9848 0 1 0 6265.dat
+1 15 -21.2 -66.2 0 -0.9848 0 0.1736 -0.1736 0 -0.9848 0 1 0 6265.dat
+0

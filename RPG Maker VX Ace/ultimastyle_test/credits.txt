@@ -1,0 +1,56 @@
+ASSETS
+http://www.freesound.org/people/swuing/sounds/38873/
+http://openfontlibrary.org/en/font/crusoe-text
+
+RM SCRIPTS
+Yanfly Engine Ace - Parallax Lock v1.00
+Fixed Pictures by Seer UK & OriginalWij
+Default Variables and Switches v1.1 by futrchamp
+Victor Engine - Basic Module - Author : Victor Sant
+Victor Engine - Step Sound - Author : Victor Sant
+Parallel Pages - Author: Hime
+Version/Build Number by V.M of D.T
+
+LEGO MODELS
+Allan, Nicholas
+Andersen, Jacob Sparre
+Bliss, Steve
+Burger, Thomas
+Dennet, Ryan
+Eriksson, Tore
+Farver, Rob
+Gallagher, Mike
+Gatrelle, Ben
+Gerber, Alan
+Gevaryahu, Jonathan
+Glöckner, Fredrik
+Gonzalez, Joseph
+Gould, Tim
+Hess, Duane
+Horvath, Michael
+Isaksson, Anders
+Jackson, James
+Lambrecht, Bram
+Loch, Kevin
+Moolhuysen, Manfred
+Probst, Joachim
+Sauls, Brian
+Sproat, Jeremy
+Stembel, Jeffrey
+Svensson (now Palmberg), Martin
+Teed, Tamyra
+VanZwieten, John
+Virsik, Rene
+Virsik, Robert
+Walton, Calvin
+Wilson, Jonathan
+Zide, Leonardo
+JAYSTEPHER The Lego Nerd
+Dennis Osborn
+Kevin Wilson
+David Till
+Joe Davenport
+Kevin M Bane
+Alex Taylor
+D M Garcia
+Michael Heidemann

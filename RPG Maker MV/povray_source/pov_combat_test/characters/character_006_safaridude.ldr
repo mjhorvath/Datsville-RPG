@@ -1,0 +1,38 @@
+0 New Minifig Model
+0 Name: character_006_safaridude.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+0 New Model
+0 Name: character_006_hatcomplete.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 28 0 -96 1 1 0 0 0 1 0 0 0 1 30167.dat
+1 4 14 -102 2 1 0 0 0 1 0 0 0 1 87693.dat
+
+
+
+
+1 14 0 -96 1 1 0 0 0 1 0 0 0 1 3626bpa7.dat
+0 New Model
+0 Name: character_006_torsocomplete.ldr
+0 Author: MLCad
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom"
+0 ROTATION CONFIG 0 0
+1 7 0 -72 2 1 0 0 0 1 0 0 0 1 973p3b.dat
+1 6 0 -72 2 1 0 0 0 1 0 0 0 1 95348.dat
+
+
+1 28 0 -40 1 1 0 0 0 1 0 0 0 1 3815.dat
+1 7 -15.552 -63 1 .985 -.17 0 .17 .985 0 0 0 1 3818.dat
+1 7 15.552 -63 1 .985 .17 0 -.17 .985 0 0 0 1 3819.dat
+1 14 -23.8634 -45.4044 -9.321 .985 -.12019 .12019 .17 .696395 -.696395 0 .707 .707 3820.dat
+1 14 23.8634 -45.4044 -9.321 .985 .12019 -.12019 -.17 .696395 -.696395 0 .707 .707 3820.dat
+1 28 0 -28 1 1 0 0 0 1 0 0 0 1 3816.dat
+1 28 0 -28 1 1 0 0 0 1 0 0 0 1 3817.dat
+
+

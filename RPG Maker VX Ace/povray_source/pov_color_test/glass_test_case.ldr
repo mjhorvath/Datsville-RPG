@@ -1,0 +1,16 @@
+0 Untitled
+0 Name: glass_test_case.ldr
+0 Author: Michael Horvath
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 axis32x.dat
+1 16 -240 -144 -50 1 0 0 0 1 0 0 0 1 30185c04.dat
+1 16 -80 -144 -50 1 0 0 0 1 0 0 0 1 30185c02.dat
+1 16 80 -144 -50 1 0 0 0 1 0 0 0 1 30185c05.dat
+1 16 240 -144 -50 1 0 0 0 1 0 0 0 1 30185c03.dat
+1 16 -240 -144 10 1 0 0 0 1 0 0 0 1 4444p06.dat
+1 16 -80 -144 10 1 0 0 0 1 0 0 0 1 4444p06.dat
+1 16 80 -144 10 1 0 0 0 1 0 0 0 1 4444p06.dat
+1 16 240 -144 10 1 0 0 0 1 0 0 0 1 4444p06.dat
+0

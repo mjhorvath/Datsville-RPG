@@ -1,0 +1,16 @@
+[GTBS] Process Action:281:in `make_action_results' :  undefined local variable or method `action' for #<Scene_Battle_TBS:0x95580e4>  (NameError) 
+	from [GTBS] Process Action:261:in `make_result_on_target'
+	from [GTBS] Process Action:190:in `block in execute_action'
+	from [GTBS] Process Action:189:in `each'
+	from [GTBS] Process Action:189:in `execute_action'
+	from [GTBS] Process Action:17:in `update_process_phase'
+	from [GTBS] Process Action:41:in `process_action'
+	from [GTBS] Scene_Battle:2406:in `confirm_item'
+	from [GTBS] Scene_Battle:1830:in `win_confirm_update'
+	from [GTBS] Scene_Battle:743:in `update'
+	from Scene_Base:14:in `main'
+	from SceneManager:23:in `run'
+	from Main:26:in `block in <main>'
+	from Acezon - F12 reset fix:48:in `call'
+	from Acezon - F12 reset fix:48:in `block in rgss_main' 
+

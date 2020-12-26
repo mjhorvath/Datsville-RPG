@@ -1,0 +1,57 @@
+GAME DESIGN, GRAPHICS, ETC.
++ Michael Horvath
+
+RPG MAKER SCRIPTS
++ Yanfly Engine Plugins by Yanfly
++ LeTBS combat scripts by Lecode
++ TDDP_BindPicturesToMap.js by Tor Damian Design / Galenmereth
++ SilvSkipTitle.js by Silver
++ Rhyme_MapSmoothScrolling.js by SpeedDivider
++ fullscreen.js by Christian Schicho
++ easystar.js by Bryce Neal
++ AS_InputSettings.js by Astra Cat
++ ARP_TitleCommandExit.js by Atreyo Ray
+
+LDRAW MODELS
++ Allan, Nicholas
++ Andersen, Jacob Sparre
++ Bliss, Steve
++ Burger, Thomas
++ Dennet, Ryan
++ Eriksson, Tore
++ Farver, Rob
++ Gallagher, Mike
++ Gatrelle, Ben
++ Gerber, Alan
++ Gevaryahu, Jonathan
++ GlÃ¶ckner, Fredrik
++ Gonzalez, Joseph
++ Gould, Tim
++ Hess, Duane
++ Horvath, Michael
++ Isaksson, Anders
++ Jackson, James
++ Lambrecht, Bram
++ Loch, Kevin
++ Moolhuysen, Manfred
++ Probst, Joachim
++ Sauls, Brian
++ Sproat, Jeremy
++ Stembel, Jeffrey
++ Svensson (now Palmberg), Martin
++ Teed, Tamyra
++ VanZwieten, John
++ Virsik, Rene
++ Virsik, Robert
++ Walton, Calvin
++ Wilson, Jonathan
++ Zide, Leonardo
++ JAYSTEPHER The Lego Nerd
++ Dennis Osborn
++ Kevin Wilson
++ David Till
++ Joe Davenport
++ Kevin M Bane
++ Alex Taylor
++ D M Garcia
++ Michael Heidemann

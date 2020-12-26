@@ -1,0 +1,3 @@
+DESCRIPTION
++ An open source turn-based role-playing video game in the style of Fire Emblem made using RPG Maker and based on Datsville, the LUGNET community LEGO town project.
++ LEGO® is a registered trademark of the LEGO Group, which does not sponsor, endorse, or authorize this project.
