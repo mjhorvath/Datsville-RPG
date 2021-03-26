@@ -48,7 +48,7 @@ var $plugins =
 {"name":"LeTBS_YanflyPatch","status":true,"description":"Fixes compatibility issues with Yanfly's plugins","parameters":{}},
 {"name":"-------------------------","status":true,"description":"","parameters":{}},
 {"name":"TDDP_BindPicturesToMap","status":true,"description":"1.0.7 Plugin Commands for binding pictures to the map and/or changing what layer they're drawn on.","parameters":{}},
-{"name":"fullscreen","status":false,"description":"Starts the game in fullscreen","parameters":{}},
+{"name":"fullscreen","status":true,"description":"Starts the game in fullscreen","parameters":{}},
 {"name":"ARP_TitleCommandExit","status":true,"description":"v1.00 Adds an option in the title command window to close\r\ngame window.","parameters":{"Command Exit":"Quit","Show Exit":"true"}},
 {"name":"AS_InputSettings","status":true,"description":"WASD Movement, Disable F keys and Disable mouse/touch input.","parameters":{"WASD Control":"true","Disable F2 F3 and F4":"false","Disable Gamepad":"false","Disable Mouse":"false","Disable Mouse Move":"false"}}
 ];
