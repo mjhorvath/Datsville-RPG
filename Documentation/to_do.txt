@@ -14,3 +14,6 @@ TO DO
 - I've been adding <TBS Event> to map sprites that I want to also appear in battle. However, in battle they always appear beneath the character sprites instead of normally. This is because battlers and map events are always placed in separate layers, with the latter always being placed below the former.
 - If you create a <TBS Event> event that has an 'Erase Event' clause, the game will crash. For instance, the ground pictures used in parallax mapping.
 - I am thinking of axing Owen as a character, however, and focusing on the Thug instead.
+
+NOTES
+- Default resolution is 816x624px. I have tested changing this to 1104x624px or 1536x864px.

@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"!$character_001_maincharacter_body","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"character_faces_01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Owen","nickname":"","note":"<letbs_sprite>\npose(idle): _idle, 3\npose(dead): _dead, 1\nturn_order: auto\nstatus_sprite: auto\n</letbs_sprite>","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"!$character_008_blondninja_body","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"character_faces_01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Esmée","nickname":"","note":"<letbs_sprite>\npose(idle): _idle, 3\npose(dead): _dead, 1\nturn_order: auto\nstatus_sprite: auto\n</letbs_sprite>","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"!$character_006_safaridude_body","classId":3,"equips":[3,0,2,3,4],"faceIndex":5,"faceName":"character_faces_01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sanford","nickname":"","note":"<letbs_sprite>\npose(idle): _idle, 3\npose(dead): _dead, 1\nturn_order: auto\nstatus_sprite: auto\n</letbs_sprite>","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"!$character_003_bluejogger_body","classId":2,"equips":[2,1,2,3,0],"faceIndex":2,"faceName":"character_faces_01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Terell","nickname":"","note":"<letbs_sprite>\npose(idle): _idle, 3\npose(dead): _dead, 1\nturn_order: auto\nstatus_sprite: auto\n</letbs_sprite>","profile":""}
-]
