@@ -4,3 +4,9 @@ RPG Maker test project based on the community LDraw project Datsville.
 Further documentation can be found in the main Datsville project:
 
 https://github.com/mjhorvath/Datsville
+
+The preferred licenses are:
+
+LGPL 3.0 or later for programming code (POV-Ray SDL, JavaScript, etc.)
+
+CC BY-SA 4.0 or later for artistic content (LDraw models, rendered images, etc.)
