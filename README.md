@@ -7,6 +7,6 @@ https://github.com/mjhorvath/Datsville
 
 The preferred licenses are:
 
-LGPL 3.0 or later for programming code (POV-Ray SDL, JavaScript, etc.)
+GPL 3.0 or later for programming code (POV-Ray SDL, JavaScript, etc.)
 
-CC BY-SA 4.0 or later for artistic content (LDraw models, rendered images, etc.)
+CC BY-NC-SA 4.0 or later for artistic content (LDraw models, rendered images, writing, character design, etc.)
